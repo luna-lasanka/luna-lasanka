@@ -2,7 +2,7 @@
   <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif' width='15"'><br>
 </p>
  
- ### Hi, There I’m Nan 👋
+ ### Hi, There I’m Luna-lasanka 👋
 My ![Visitor Count](https://profile-counter.glitch.me/luna-lansaka/count.svg) Visitor.
  - 👀 I’m interested in Artificial Intelligence.
  - 🌱 I’m currently learning `unity` , `ComputerVision` , `TypeScript` , `R` and `Vue.js`.                 
